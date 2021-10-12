@@ -15,10 +15,9 @@
         
 ![df](https://github.com/DAWUNHAN/Game-sales-Analysis/blob/master/image/df.png?raw=true)
 
-
+<!-- #region -->
 ## 연도별 게임의 트렌드 존재 여부
-### 연도에 따른 장르별 판매량 (라인 그래프)
-![연도에 따른 장르별 판매량](https://github.com/DAWUNHAN/Game-sales-Analysis/blob/master/image/%EC%97%B0%EB%8F%84%EB%B3%84%20%EA%B2%8C%EC%9E%84%20%EC%9E%A5%EB%A5%B4%20%ED%8A%B8%EB%A0%8C%EB%93%9C.png?raw=true)
+
 
 ### 연도에 따른 각 지역별 출고량 (라인 그래프)
 ![연도에 따른 각 지역별 출고량](https://github.com/DAWUNHAN/Game-sales-Analysis/blob/master/image/%EC%97%B0%EB%8F%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%A7%80%EC%97%AD%EB%B3%84%20%EC%B6%9C%EA%B3%A0%EB%9F%89.png?raw=true)
@@ -34,7 +33,7 @@
 ![](https://github.com/DAWUNHAN/Game-sales-Analysis/blob/master/image/%EA%B0%81%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EA%B2%8C%EC%9E%84%20%EC%9E%A5%EB%A5%B4%EB%B3%84%20%ED%8C%90%EB%A7%A4%EB%9F%89%20scatter.png?raw=true)
 
 ![](https://github.com/DAWUNHAN/Game-sales-Analysis/blob/master/image/%EA%B0%81%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EA%B2%8C%EC%9E%84%20%EC%9E%A5%EB%A5%B4%EB%B3%84%20%ED%8C%90%EB%A7%A4%EB%9F%89.png?raw=true)
-
+<!-- #endregion -->
 
 ## 출고량이 높은 게임에 대한 분석
 
