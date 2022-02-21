@@ -3,6 +3,9 @@
 - 다음 분기 설계할 게임을 위해 게임 출고량 데이터를 분석합니다. 
 - [PPT 파일 정리](https://da-journal.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B2%8C%EC%9E%84-%EC%84%A4%EA%B3%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-1?category=889720)
 
+## 📌 발표 영상
+[![게임 판매량 데이터 분석](https://img.youtube.com/vi/aLurNZ5Kg_I/0.jpg)](https://www.youtube.com/watch?v=aLurNZ5Kg_I&ab_channel=DawunHan)
+
 ## 📌 데이터 전처리
 - 데이터셋 크기 : 16598 * 9 
 - 데이터 전처리 
